@@ -1,0 +1,9 @@
+name: myenvv  # environment name
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9       
+  - plotly          
+  - pandas          
+  - pip  
+  - numpy
